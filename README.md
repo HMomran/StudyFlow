@@ -42,16 +42,6 @@ forward to the next day.
 - ♻️ **Reset Planner** — Clear the schedule and start again.
 - 🎨 **Modern Interface** — Clean design using Tailwind CSS.
 
-## 🖥️ Screenshots
-
-Add screenshots of the application to showcase the interface.
-
-For example, after creating an `assets` folder
-and uploading a screenshot named `dashboard.png`:
-
-![StudyFlow Dashboard](./assets/dashboard.png)
-
-<!-- Remove the example image line above until the screenshot exists. -->
 
 ## 🛠️ Technologies Used
 
@@ -144,6 +134,6 @@ Computer Science Student — University of Bahrain & Reboot01
 
 **Built to help students study smarter.**
 
-⭐ If you find StudyFlow useful, consider starring the repository!
+ If you find StudyFlow useful, consider starring the repository!
 
 </div>
